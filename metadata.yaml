@@ -1,0 +1,32 @@
+_repo: Hethadenee-waunauyaunee-vadan-Luke-vanenanaThe-Gospel-According-to-Saint-Luke_30102
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: White Hawk, Michael
+    alias: Hawk, Michael White
+    gutenberg_agent_id: '34373'
+    url: http://www.gutenberg.org/2009/agents/34373
+  - agent_name: Roberts, John
+    gutenberg_agent_id: '34374'
+    url: http://www.gutenberg.org/2009/agents/34374
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2009-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30102'
+  lccn: ca17002757
+language: arp
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arapaho language -- Texts'
+- !lcc 'BS'
+title: 'Hethadenee waunauyaunee vadan Luke vanenana
+
+  The Gospel According to Saint Luke'
+url: http://www.gutenberg.org/ebooks/30102
